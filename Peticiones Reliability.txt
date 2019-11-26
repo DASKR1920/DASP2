@@ -1,0 +1,5 @@
+Petición del cliente: el procesado de datos medidante la base de datos tiene memoria compartida accesible desde dos componentes software, nuestra base inicial y una segunda para evitar caidas 	
+		del sistema que reaccione cuando la primera falle.
+
+
+La base de datos tiene memoria compartida desde dos componentes software para el procesamiento de datos: la base principal y una auxiliar para evitar caídas del sistema que reaccionen cuando la priemera falle.
